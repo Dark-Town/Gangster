@@ -10,7 +10,7 @@ import cfonts from 'cfonts';
 
 const { say } = cfonts;
 
-say("Gangster - V2", {
+say("Gangster-V2", {
   'font': "block",
   'align': "center",
   'colors': ['#ff9900'],
