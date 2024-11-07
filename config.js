@@ -58,11 +58,11 @@ global.author = '@TcronebHackx-Md'
 global.menuvid = 'https://telegra.ph/file/325630f66abc968eda8e2.mp4'
 global.igfg = '▢✓ Follow Our https://chat.whatsapp.com/LqD6utmLF699JIW9R82O95\n' 
 global.dygp = 'https://chat.whatsapp.com/LqD6utmLF699JIW9R82O95'
-global.fgsc = 'https://github.com/TcronebHackx-Md/XLICON-V2-MD' 
+global.fgsc = 'https://github.com/Dark-Town/Gangster' 
 global.fgyt = 'https://youtube.com/@cbf_263'
 global.fgpyp = 'https://youtube.com/@cbf_263'
 global.fglog = 'XLICON.jpg' 
-global.thumb = fs.readFileSync('./XLICON.jpg')
+global.thumb = fs.readFileSync('./Gangster.jpg')
 
 global.wait = '*🕣 _𝙸𝙱𝙱𝙾𝚃-𝚇𝙼𝙳-𝚅10 IS LOADING..._*\n*▰▰▰▱▱▱▱▱⭐*'
 global.rwait = '⌛'
